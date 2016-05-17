@@ -1,0 +1,44 @@
+header {
+    background-color: #00ffcc;
+    color: #000000;
+}
+
+body {
+    background-color: #df80ff;
+}
+
+main {
+    background-color: #ffff33;
+    padding: 16px;
+}
+.post {
+    margin-bottom: 48px;
+}
+.post .user-info img{
+    border-radius:50%;
+}
+
+.comments {
+    border-color: transparent;
+    border-width: 3px;
+    border-style: dashed;
+}
+
+.photo:hover {
+
+}
+
+/*    PSUEDO CLASSES         */
+
+.actions:hover {
+    color: #df80ff;
+    
+}
+.comments:hover {
+    color: #df80ff;
+    border-color:#000000;
+    
+}
+
+/*Forms*/
+
